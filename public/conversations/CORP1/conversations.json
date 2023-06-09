@@ -1,0 +1,3018 @@
+{
+    "ROOT0": {
+        "meta": {
+            "title": "[Flaky] CSharp_FixupSpanDuringResolvableConflict_ComplexificationReordersReferenceSpans Failure",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT1": {
+        "meta": {
+            "title": "Add RA balance changes",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT2": {
+        "meta": {
+            "title": "Change Subs to use the Defend stance by default",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT3": {
+        "meta": {
+            "title": "Extreme jank on iOS/Android the first time any kind of animation or transition runs (release build) - skia shader compilation",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT4": {
+        "meta": {
+            "title": "Test summary logged using println",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT5": {
+        "meta": {
+            "title": "Expand diffs in either direction",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT6": {
+        "meta": {
+            "title": "colorScheme does not work",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT7": {
+        "meta": {
+            "title": "[INTEL MKL] Fixed missing copts in BUILD file.",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT8": {
+        "meta": {
+            "title": "navbar dropdown not working ",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT9": {
+        "meta": {
+            "title": "Change Detection is not working with asynchronous route changes",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT10": {
+        "meta": {
+            "title": "consider separating URI fragment before passing to TextDocumentContentProvider.provideTextDocumentContent",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT11": {
+        "meta": {
+            "title": "Azure Cloud Shell is readded to the profiles.json file after I remove it and restart terminal. ",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT12": {
+        "meta": {
+            "title": "Invalid formatting of `#If` directive in VB",
+            "locked": false,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT13": {
+        "meta": {
+            "title": "Comprehensive, Native Windows Support",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT14": {
+        "meta": {
+            "title": "Why does WinAppDriver.exe require developer mode?",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT15": {
+        "meta": {
+            "title": "Disable Origin Policy CORS in Flutter web",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT16": {
+        "meta": {
+            "title": "cmd/test2json: bogus `Elapsed` field computed when test times out",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT17": {
+        "meta": {
+            "title": "[Feature Request] Print project directory when diagnostics enabled",
+            "locked": false,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT18": {
+        "meta": {
+            "title": "deps: add Yarn 1.22.5",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT19": {
+        "meta": {
+            "title": "Cannot load fashion_mnist dataset",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT20": {
+        "meta": {
+            "title": "fix or document proper configuration for specifying default output order",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT21": {
+        "meta": {
+            "title": "Santa hat removal",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT22": {
+        "meta": {
+            "title": "IPython doesn't follow the XDG base directory specification",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT23": {
+        "meta": {
+            "title": "http: explain the unused argument in IncomingMessage._read",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT24": {
+        "meta": {
+            "title": "Terminal v1.5.10271.0 crashes on startup due to settings.json load bug",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT25": {
+        "meta": {
+            "title": "Don't hyphenate custom CSS properties for ReactDOMServer",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT26": {
+        "meta": {
+            "title": "Curiosity: Why are nested items in BS4 have full class names again?",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT27": {
+        "meta": {
+            "title": "v14 --fix rewrites `a 'b' c` to 'a \\'b\\' c' instead of \"a 'b' c\"",
+            "locked": false,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT28": {
+        "meta": {
+            "title": "proposal: path/filepath: add Resolve, replacing EvalSymlinks",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT29": {
+        "meta": {
+            "title": "IPython 5.10 doesn't work on Python 3.8",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT30": {
+        "meta": {
+            "title": "Rename Node-API to something less confusing/misleading",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT31": {
+        "meta": {
+            "title": "Json support to set Firebase Remote Configs defaults",
+            "locked": true,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT32": {
+        "meta": {
+            "title": "ActiveRecord::Base#dup does not clear memoized GlobalID",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT33": {
+        "meta": {
+            "title": "Active owner badly needed",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT34": {
+        "meta": {
+            "title": "Suppress firing events at load time if an error has already occurred",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT35": {
+        "meta": {
+            "title": "Show a warning with Learn More link if SSH is in use without a working ssh-agent",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT36": {
+        "meta": {
+            "title": "Terminal shows an empty window and then crashes",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT37": {
+        "meta": {
+            "title": "storage OOM not proper handled by gradle ",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT38": {
+        "meta": {
+            "title": "Have saw many build/run environment issues, collect them here.",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT39": {
+        "meta": {
+            "title": "Consider JSX-like syntax inside dart code",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT40": {
+        "meta": {
+            "title": "\u4f60\u597d\uff0c\u4f60\u7684\u8bed\u8a00\u7248\u672c\u4e0a\u8fdd\u53cd\u4e86\u4e2d\u56fd\u6cd5\u5f8b",
+            "locked": true,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT41": {
+        "meta": {
+            "title": "Object spread can lead to unknown properties added [Regression v3.1.6]",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT42": {
+        "meta": {
+            "title": "FR: Firebase Analytics Server Side",
+            "locked": true,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT43": {
+        "meta": {
+            "title": "Buttons pressing leads to editor crash if pressed while other app window is focused (DisplayServer regression)",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT44": {
+        "meta": {
+            "title": "Lightmap Baking hangs at \"Plotting Meshes\" then fills the RAM up until Godot crashes.",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT45": {
+        "meta": {
+            "title": "[Prototype] [Do NOT Merge] Binary Metal Archive Prototype for iOS/Mac.",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT46": {
+        "meta": {
+            "title": "depends_on cannot be used in a module",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT47": {
+        "meta": {
+            "title": "encrypt is decrypting wrong",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT48": {
+        "meta": {
+            "title": "open dropdown menu in navbar results in changed viewport width",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT49": {
+        "meta": {
+            "title": "API Access to \"Open Editors\"",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT50": {
+        "meta": {
+            "title": "Inconsistent type styling in Godot editor",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT51": {
+        "meta": {
+            "title": "[eslint-plugin-react-hooks] \"Rules of hooks\" considers any function beginning with \"use\" to be a React Hook",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT52": {
+        "meta": {
+            "title": "[WARNING]: Unable to parse /etc/ansible/hosts as an inventory source",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT53": {
+        "meta": {
+            "title": "No built application for download",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT54": {
+        "meta": {
+            "title": "atom as an editor is too big",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT55": {
+        "meta": {
+            "title": "Proposal: Consider using  bgfx as a rendering backend?",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT56": {
+        "meta": {
+            "title": "Is there a way to have a full REPL or console for vs code Python?",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT57": {
+        "meta": {
+            "title": "ref-struct errors can be suppressed in VB.",
+            "locked": true,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT58": {
+        "meta": {
+            "title": "Feature: Allow until-loops on blocks or includes",
+            "locked": true,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT59": {
+        "meta": {
+            "title": "signal higher priority update",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT60": {
+        "meta": {
+            "title": "Bug: functional components are not re-rendered if the provided props look the same",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT61": {
+        "meta": {
+            "title": "The removal of Santa Hat on vscode insiders is very offensive and has nothing to do with religion ",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT62": {
+        "meta": {
+            "title": "Please don't remove the dark theme, because it will make it harder to read large block of code.",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT63": {
+        "meta": {
+            "title": "Last jedi release (0.18.0) is incompatible with ipython (7.19 and 7.18 tested); reason - column arg was deprecated, and now removed",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT64": {
+        "meta": {
+            "title": "\"Unable to find source java class\" error when file modified sits within symlinked source directory",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT65": {
+        "meta": {
+            "title": "Style - future chaining",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT66": {
+        "meta": {
+            "title": "Dart VM on FreeBSD",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT67": {
+        "meta": {
+            "title": "debug breakpoints don't work when launching from url",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT68": {
+        "meta": {
+            "title": "How to copy text? Ctrl + C isn't working?",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT69": {
+        "meta": {
+            "title": "Unable to delete files on Fedora 28 (gvfs-trash is deprecated)",
+            "locked": true,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT70": {
+        "meta": {
+            "title": "Replace use of whitelist with allowlist and blacklist with denylist",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT71": {
+        "meta": {
+            "title": "[Epic] Text Buffer rewrite ",
+            "locked": false,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT72": {
+        "meta": {
+            "title": "\ud83d\udd25[WIP][NOT READY FOR REVIEW]\ud83d\udc0d[EXPERIMENT] \ud83d\udc09 Use Ubuntu LTS as master image by default \ud83d\udd25",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT73": {
+        "meta": {
+            "title": "Provide python version mismatch solutions",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT74": {
+        "meta": {
+            "title": "Support Web Components v1",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT75": {
+        "meta": {
+            "title": "Panel split background ignores `requestedTheme`, follows system app mode",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT76": {
+        "meta": {
+            "title": "Use C++14 as default standard version for cpp projects",
+            "locked": false,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT77": {
+        "meta": {
+            "title": "No network connection in any distribution under WSL 2",
+            "locked": false,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT78": {
+        "meta": {
+            "title": "add http2 health check for SetTransportDefaults",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT79": {
+        "meta": {
+            "title": "fix crash on iOS 13 ",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT80": {
+        "meta": {
+            "title": "Gatling 3.0.0 does not honor dns ttl ",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT81": {
+        "meta": {
+            "title": "(Title renamed to remove explicit language)",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT82": {
+        "meta": {
+            "title": "Roll Engine from fd6b409f950b to 9384324cc15c (25 revisions)",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT83": {
+        "meta": {
+            "title": "Rename \"taint\" to something less vulgar",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT84": {
+        "meta": {
+            "title": "kubeadm: deprecate the `ClusterStatus` dependency\r",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT85": {
+        "meta": {
+            "title": "Twig syntax highlighting broken",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT86": {
+        "meta": {
+            "title": "Euler sequences, Quats, and DCMs",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT87": {
+        "meta": {
+            "title": "wsl2 cannot create temp file for here-document: Read-only file system",
+            "locked": false,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT88": {
+        "meta": {
+            "title": "[Feature] Allow custom publish subdirectory",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT89": {
+        "meta": {
+            "title": "DNS Problem with apt-get",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT90": {
+        "meta": {
+            "title": "Add event to allow for rendering additional overlays on items in guis",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT91": {
+        "meta": {
+            "title": "Marketplace: searching by an extension's name is practically broken",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT92": {
+        "meta": {
+            "title": "BUG: The `%conda` magic doesn't work",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT93": {
+        "meta": {
+            "title": "Using include asynchronously with with_items",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT94": {
+        "meta": {
+            "title": "[Proposal] CSS Variables",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT95": {
+        "meta": {
+            "title": "npm install funding",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT96": {
+        "meta": {
+            "title": "Add Stories to Windows Terminal ",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT97": {
+        "meta": {
+            "title": "doc: Improve doc for Http2 headers object",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT98": {
+        "meta": {
+            "title": "Add annotation-based tools for dist-based implementation of methods",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT99": {
+        "meta": {
+            "title": "TS-Check: Property 'createEventObject' does not exist on type 'Document'",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT100": {
+        "meta": {
+            "title": "multithread example service + remove unnecessary template from codegen",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT101": {
+        "meta": {
+            "title": "Remember 5-6 months ago before C#?",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT102": {
+        "meta": {
+            "title": "The find/search selection highlight for the built in documentation is very hard to see.",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT103": {
+        "meta": {
+            "title": "HTTP manipulating complete request / get raw response",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT104": {
+        "meta": {
+            "title": "Fix typo",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT105": {
+        "meta": {
+            "title": "[Spec]  Name in use by a REAL open-source project",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT106": {
+        "meta": {
+            "title": "Jekyll 4.0 Ideas",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT107": {
+        "meta": {
+            "title": "Norton very unhappy with vcpkgmetricsuploader",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT108": {
+        "meta": {
+            "title": "Are you serious?",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT109": {
+        "meta": {
+            "title": "Please rename \"Terminal\" section of menu, because it's offensive to me",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT110": {
+        "meta": {
+            "title": "implement and enable gce instancev2",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT111": {
+        "meta": {
+            "title": "Roll third_party/re2 0c95bcce2f1f..848dfb7e1d7b (2 commits)",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT112": {
+        "meta": {
+            "title": "proposal: Go 2: error handling with functions and an error return?",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT113": {
+        "meta": {
+            "title": "Terminal should dodge the onscreen keyboard slightly better",
+            "locked": false,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT114": {
+        "meta": {
+            "title": "This is the worst framework i have ever seen.",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT115": {
+        "meta": {
+            "title": "Please remove Scottish Gaelic from the Google translate block",
+            "locked": true,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT116": {
+        "meta": {
+            "title": "Paint editor: Vertical flip rotates",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT117": {
+        "meta": {
+            "title": "Open an RFC to discuss decision to revert License and remove Jamie",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT118": {
+        "meta": {
+            "title": "My app is slow or missing frames (metabug)",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT119": {
+        "meta": {
+            "title": "False negatives in results for some Exchange versions (http-vuln-cve2021-26855.nse)",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT120": {
+        "meta": {
+            "title": "Color Setting not working",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT121": {
+        "meta": {
+            "title": "doc: fix typo in fs.md",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT122": {
+        "meta": {
+            "title": "Please remove the black theme, because it's offensive to me",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT123": {
+        "meta": {
+            "title": "Console Behavior in Javascript lessons.",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT124": {
+        "meta": {
+            "title": "Global variable scope rules lead to unintuitive behavior at the REPL/notebook",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT125": {
+        "meta": {
+            "title": "Bootstrap 4 with npm and webpack",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT126": {
+        "meta": {
+            "title": "Bug: Sometimes useEffect() callback is called before render",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT127": {
+        "meta": {
+            "title": "docs: Removed how-to-work-on-guide-articles from 4 languages",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT128": {
+        "meta": {
+            "title": "Extra forward slash in URLs when config[\"url\"] has a trailing forward slash",
+            "locked": false,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT129": {
+        "meta": {
+            "title": "Telemetry",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT130": {
+        "meta": {
+            "title": "[Shallow] Implement callEffects option to call effects from shallow renderer (#15275)",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT131": {
+        "meta": {
+            "title": "Multi-Layer models don't support texture overrides",
+            "locked": false,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT132": {
+        "meta": {
+            "title": "Strange behaviour of Delete Line and Insert Line when used above the top margin",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT133": {
+        "meta": {
+            "title": "VT52 cursor left sequence conflicts with VT100 index sequence",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT134": {
+        "meta": {
+            "title": "Fix crash in terminal when tab closed while data is being output",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT135": {
+        "meta": {
+            "title": "Support configuring a profile to run as Administrator / Elevated Permissions",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT136": {
+        "meta": {
+            "title": "Inconsistent java formatting with Eclipse and IntelliJ",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT137": {
+        "meta": {
+            "title": "Holiday Festivities",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT138": {
+        "meta": {
+            "title": "Hire a Service Fabric product manager who cares",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT139": {
+        "meta": {
+            "title": "In Which Jack Is Angry",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT140": {
+        "meta": {
+            "title": "spurious CONDITIONAL_BARE_VARS warnings",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT141": {
+        "meta": {
+            "title": "Salt 2018.3.0 service.enable mangles /etc/rc.conf, rendering system unbootable",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT142": {
+        "meta": {
+            "title": "\u274c(REVERTED): Add text to MIT License banning ICE collaborators",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT143": {
+        "meta": {
+            "title": "Server side WCF ",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT144": {
+        "meta": {
+            "title": "util: add util/errors",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT145": {
+        "meta": {
+            "title": "Typescript should follow semantic versioning  ",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT146": {
+        "meta": {
+            "title": "Distributed Version",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT147": {
+        "meta": {
+            "title": "Rename the \"master\" branch to avoid problematic terminology",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT148": {
+        "meta": {
+            "title": "Allow decrypting of files with vaulted variables",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT149": {
+        "meta": {
+            "title": "Update csi proxy to v0.2.1",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT150": {
+        "meta": {
+            "title": "Screen margins and scrolling regions are acting strange for the JOE editor",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT151": {
+        "meta": {
+            "title": "Make wording in the directives more inclusive",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT152": {
+        "meta": {
+            "title": "Indicator of module progress",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT153": {
+        "meta": {
+            "title": "Finally block belonging to unexecuted try runs anyway",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT154": {
+        "meta": {
+            "title": "'Go to definition' on a tuple element name should not navigate to metadata for ValueTuple.ItemN",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT155": {
+        "meta": {
+            "title": "\u26a0\ufe0f\ud83d\udea7\ud83d\udc77 Scheduled rename `master` branch to `main`",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT156": {
+        "meta": {
+            "title": "Remote Containers using SSH doesn't work in Windows",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT157": {
+        "meta": {
+            "title": "Is Microsoft capable of writing software that doesn't turn into a nightmare?",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT158": {
+        "meta": {
+            "title": "website/docs: Please remove political banner.",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT159": {
+        "meta": {
+            "title": "Node.js would not compile with --debug --v8-non-optimized-debug",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT160": {
+        "meta": {
+            "title": "Removal of the Santa hat and kowtowing to a single fake user is offensive to me",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT161": {
+        "meta": {
+            "title": "gccgo: internal compiler error: in mangled_name",
+            "locked": false,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT162": {
+        "meta": {
+            "title": "Add the ability to author cross platform tasks in powershell core",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT163": {
+        "meta": {
+            "title": "Hosting Blazor App behind an MVC app",
+            "locked": false,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT164": {
+        "meta": {
+            "title": "Make copyto!(A,I) work for rectangular matrices",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT165": {
+        "meta": {
+            "title": "Snow Flake on vscode insiders and pushing death is very offensive to me",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT166": {
+        "meta": {
+            "title": "v2.9.6 templating performance regression due to caching change in #67429",
+            "locked": true,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT167": {
+        "meta": {
+            "title": "fmt: add examples",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT168": {
+        "meta": {
+            "title": "gatling stuck when project has other dependencies",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT169": {
+        "meta": {
+            "title": "Integrating ARKIT and ARCORE with flutter",
+            "locked": false,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT170": {
+        "meta": {
+            "title": "Security Fix",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT171": {
+        "meta": {
+            "title": "fix(client): Improve client validation accessibility",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT172": {
+        "meta": {
+            "title": "SplitButton & ToggleSplitButton's chevron gets clipped when text scaling >= ~200%.",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT173": {
+        "meta": {
+            "title": "CheckBox & RadioButton labels become off-center when text scaling >= ~150%.",
+            "locked": false,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT174": {
+        "meta": {
+            "title": "BUG: MeshPhongMaterial flicker with flatShading: false",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT175": {
+        "meta": {
+            "title": "npm install fails with 403 NotSupportedBrowser",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT176": {
+        "meta": {
+            "title": "improve performance of parse",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT177": {
+        "meta": {
+            "title": "Find a way to fit panel headers into the smaller minimum width",
+            "locked": false,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT178": {
+        "meta": {
+            "title": "add: 27-quadratic-primes in js",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT179": {
+        "meta": {
+            "title": "Include Ctrl+C, Ctrl+V keybindings by default",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT180": {
+        "meta": {
+            "title": "Zip nesting regression in Gradle 5.1 and later",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT181": {
+        "meta": {
+            "title": "fix command variable exited with status 1",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT182": {
+        "meta": {
+            "title": "tensorflow.python.framework.errors_impl.FailedPreconditionError: TensorRT is not enabled!",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT183": {
+        "meta": {
+            "title": "Array.isArray refinement loses the array's type",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT184": {
+        "meta": {
+            "title": "We cannot reach the server to update your progress.",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT185": {
+        "meta": {
+            "title": "Top-level statements and functions",
+            "locked": true,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT186": {
+        "meta": {
+            "title": "Expose minizip API to allow creating zips using scripts",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT187": {
+        "meta": {
+            "title": "[docs][recipes] Update to Linking Between Recipe with example + tests",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT188": {
+        "meta": {
+            "title": "[v4] form-control: Remove background-image: none; ",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT189": {
+        "meta": {
+            "title": "doc: fixed typos in api/console.md and api/crypto.md",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT190": {
+        "meta": {
+            "title": "RFS (Responsive font size) implementation",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT191": {
+        "meta": {
+            "title": "Remove redundant properties in card components & fix #29396",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT192": {
+        "meta": {
+            "title": "loading my own datasets",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT193": {
+        "meta": {
+            "title": "feat(client): pagination on timeline",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT194": {
+        "meta": {
+            "title": "deps: V8: workaround for darwin arm64 code page decommit failures",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT195": {
+        "meta": {
+            "title": "cnn.com time to interactive is 11s-22s",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT196": {
+        "meta": {
+            "title": "Fix regression 8.1.1492",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT197": {
+        "meta": {
+            "title": "Change test method from string.test(regex) to regex.test(string)",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT198": {
+        "meta": {
+            "title": "Estimator verification API",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT199": {
+        "meta": {
+            "title": "Scrollbar is inset by padding and probably shouldn't be",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT200": {
+        "meta": {
+            "title": "Discussion: WinUI 3.0 and XAML Performance",
+            "locked": false,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT201": {
+        "meta": {
+            "title": "Prevent repeated checking and typecasting in check_pairwise",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT202": {
+        "meta": {
+            "title": "[MRG] COSMIT: Minor opt in pairwise_distances_argmin_min",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT203": {
+        "meta": {
+            "title": "change keyframe value \"frame:\" when SpriteNode->Animation->HFrames changes",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT204": {
+        "meta": {
+            "title": "Please support web standard crypto.subtle",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT205": {
+        "meta": {
+            "title": "[feat][question] jQuery free version ",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT206": {
+        "meta": {
+            "title": "Fix some wording translation in german (de-DE/Resources.resw) #141",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT207": {
+        "meta": {
+            "title": "Support for 32 bits architecture",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT208": {
+        "meta": {
+            "title": "Use movups instead of movdqu in block op codegen",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT209": {
+        "meta": {
+            "title": "No way to select tenant number greater than 9 in Azure Cloud Shell connector",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT210": {
+        "meta": {
+            "title": "Put local methods into chained constructor argument scope",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT211": {
+        "meta": {
+            "title": "Bodyless Constructors and Methods",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT212": {
+        "meta": {
+            "title": "Stop the censorship",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT213": {
+        "meta": {
+            "title": " `Use legacy console` option prevents Terminal from launching ConPTYs correctly",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT214": {
+        "meta": {
+            "title": "##vso[task.prependpath] in linux always results in an extra quote added wiht the prepended path",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT215": {
+        "meta": {
+            "title": "All challenge progress lost",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT216": {
+        "meta": {
+            "title": "\u23f1\ufe0f Call to action: Help shape the future for ASP.NET Core",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT217": {
+        "meta": {
+            "title": "runtime: API for unstable metrics",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT218": {
+        "meta": {
+            "title": "Some parameter names of function lead to shader compilation errors",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT219": {
+        "meta": {
+            "title": "Font size different in different terminals even though the same in points",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT220": {
+        "meta": {
+            "title": "events: improve listeners() performance",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT221": {
+        "meta": {
+            "title": "Lerna commands throw yargs warning",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT222": {
+        "meta": {
+            "title": "NameError: name 'sys' is not defined",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT223": {
+        "meta": {
+            "title": "What counts as \"activity\" for Http2Session#setTimeout?",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT224": {
+        "meta": {
+            "title": "azure: update InitiateDeviceAuth  with InitiateDeviceAuthWithContext",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT225": {
+        "meta": {
+            "title": "Any character requiring Alt Gt not being inserted correctly on German keyboard layout",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT226": {
+        "meta": {
+            "title": "Forward port patches from 10.x security release",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT227": {
+        "meta": {
+            "title": "Incorrect wsl disk space",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT228": {
+        "meta": {
+            "title": "Can't edit animation when it's created by copying another animation",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT229": {
+        "meta": {
+            "title": "ITK portfile support legacy user code by default",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT230": {
+        "meta": {
+            "title": "Fix revert button behaviour",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT231": {
+        "meta": {
+            "title": "feat: Allow custom file extensions",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT232": {
+        "meta": {
+            "title": "Missing Microsoft.ServiceFabric.Data.Extensions nuget update",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT233": {
+        "meta": {
+            "title": "Can't login for the last few days",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT234": {
+        "meta": {
+            "title": "Error on django",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT235": {
+        "meta": {
+            "title": "How I can add Yandex RTB (Ads-code) to Gatsby?",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT236": {
+        "meta": {
+            "title": "Cherry pick of #89858: kube-apiserver should exit with error if not able to connect to etcd",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT237": {
+        "meta": {
+            "title": "Cherry pick of #89858: kube-apiserver should exit with error if not able to connect to etcd",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT238": {
+        "meta": {
+            "title": "Menu and mouse behavior enhancement suggestion",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT239": {
+        "meta": {
+            "title": "[Tasks/config/tasks] Fixes Autoprefixer warnings in build log",
+            "locked": false,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT240": {
+        "meta": {
+            "title": "\ud83c\udf85",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT241": {
+        "meta": {
+            "title": "Kernel panic when opening files",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT242": {
+        "meta": {
+            "title": "Coding productivity decreased since last build",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT243": {
+        "meta": {
+            "title": "Tileset:  Expose bitmask flags (as a property?)",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT244": {
+        "meta": {
+            "title": "ETA for UWP support?",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT245": {
+        "meta": {
+            "title": "Win32 input make/break events are generated at the same time",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT246": {
+        "meta": {
+            "title": "[8.x] deps: V8: cherry-pick 8361fa58 from upstream",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT247": {
+        "meta": {
+            "title": "Consider adding a JsonSerializerOptions.CultureInfo option",
+            "locked": false,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT248": {
+        "meta": {
+            "title": "Added Elasticsearch cluster settings get and put methods plus the flush_synced method",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT249": {
+        "meta": {
+            "title": "Allow to use subset of Array values as type",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT250": {
+        "meta": {
+            "title": "(removed)",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT251": {
+        "meta": {
+            "title": "Add Facebook, Twitter, and XBoxLive leader board support to System.Exception",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT252": {
+        "meta": {
+            "title": "OpenCL support",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT253": {
+        "meta": {
+            "title": "Change #BlackLivesMatter notification to #AllLivesMatter on angular.io main page.",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT254": {
+        "meta": {
+            "title": "[BS4] Carousel not working well in IE11.",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT255": {
+        "meta": {
+            "title": "Feature Request",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT256": {
+        "meta": {
+            "title": "Expose report generator as public interface",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT257": {
+        "meta": {
+            "title": "Permissions needed to run Terminal",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT258": {
+        "meta": {
+            "title": "Implement an alternative to startup running twice when using WebApplicationFactory",
+            "locked": false,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT259": {
+        "meta": {
+            "title": "Memory leak on AuthUI.getInstance()#signOut(Activity)",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT260": {
+        "meta": {
+            "title": "Kernel crashes every 3 seconds from a fresh install from conda from both default and conda-forge",
+            "locked": false,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT261": {
+        "meta": {
+            "title": "Push: NoneType has no attribute Write",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT262": {
+        "meta": {
+            "title": "Issues tracker being spammed with SantaGate silliness: proposed fix",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT263": {
+        "meta": {
+            "title": "Bump major version before releasing license change.",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT264": {
+        "meta": {
+            "title": "Bug(Animations): animation transition :enter delay should delay the appearance of an element",
+            "locked": false,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT265": {
+        "meta": {
+            "title": "Dictionary identity is broken for NAN",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT266": {
+        "meta": {
+            "title": "WHy angular is retarded?",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT267": {
+        "meta": {
+            "title": "http2 client: enable http2 connection health check",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT268": {
+        "meta": {
+            "title": "Weird slowness scolling text in the console",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT269": {
+        "meta": {
+            "title": "Quarantine flaky test",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT270": {
+        "meta": {
+            "title": "Please rename your project",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT271": {
+        "meta": {
+            "title": "[Bug] Name clash with Maui Linux and MauiKit",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT272": {
+        "meta": {
+            "title": "Santa Claus hat as an option in VS Code settings",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT273": {
+        "meta": {
+            "title": "[crash] Right-click-on-tab menu is unstable",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT274": {
+        "meta": {
+            "title": "net/http: TimeoutHandler hides panic locations",
+            "locked": false,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT275": {
+        "meta": {
+            "title": "Deno",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT276": {
+        "meta": {
+            "title": "use to_list() instead of [] notation",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT277": {
+        "meta": {
+            "title": "Add a help text about top contributors on the profile",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT278": {
+        "meta": {
+            "title": "Change check_db_exists default to True",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT279": {
+        "meta": {
+            "title": "Tab name appends the currently executing batch file, and when terminated, it remains as part of the name",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT280": {
+        "meta": {
+            "title": "Campbell color scheme should change the foreground color from #F2F2F2 to #CCCCCC",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT281": {
+        "meta": {
+            "title": "docs: Add a theme step to Step by Step Tutorial",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT282": {
+        "meta": {
+            "title": "Add Ubuntu 20.04 to CI and ansible-test",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT283": {
+        "meta": {
+            "title": "SEA3D vs GLTF",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT284": {
+        "meta": {
+            "title": "Windows Terminal crashes right at launch - File system error (-2015294513)",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT285": {
+        "meta": {
+            "title": "Conditionally import_playbook aka include_playbook",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT286": {
+        "meta": {
+            "title": "This Tools is not run for Ex2010  ?",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT287": {
+        "meta": {
+            "title": "[v10.x] Reland npm 6.14.11",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT288": {
+        "meta": {
+            "title": "Adding WREN to vcpkg",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT289": {
+        "meta": {
+            "title": "curriculum not on 100%",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT290": {
+        "meta": {
+            "title": "Night mode doesnt work by me.",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT291": {
+        "meta": {
+            "title": "The positioning of an app using winappdriver is incorrect.",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT292": {
+        "meta": {
+            "title": "Fake client example: document how to handle a race with informer",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT293": {
+        "meta": {
+            "title": "Windows update failed: Access is denied",
+            "locked": true,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT294": {
+        "meta": {
+            "title": "ES6 - Write Higher Order Arrow Functions - About Chaining, Needs Clarification",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT295": {
+        "meta": {
+            "title": "RTL text selection",
+            "locked": true,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT296": {
+        "meta": {
+            "title": "Make auth_method_picker layout work in landscape",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT297": {
+        "meta": {
+            "title": "Add an AuthUI.reauthenticate() function",
+            "locked": true,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT298": {
+        "meta": {
+            "title": "Problems running the image example (Python 2.7.10, PyEnv, Xubuntu 14.04 64bit)",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT299": {
+        "meta": {
+            "title": "Uri.resolveUri does not work correctly for relative URIs.",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT300": {
+        "meta": {
+            "title": "EXRLoader: adds support for ZIP compression",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT301": {
+        "meta": {
+            "title": "cleanup of leftover part of a comment. Follow up for #94109",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT302": {
+        "meta": {
+            "title": "Add help option to `list --help` output",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT303": {
+        "meta": {
+            "title": "use allowlist instead of whitelist",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT304": {
+        "meta": {
+            "title": "fix(learn): missing semi-colon on use arrow functions to write anonymous functions",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT305": {
+        "meta": {
+            "title": "GPU_Base dockerfile image not found",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT306": {
+        "meta": {
+            "title": "The Future of IdentityServer",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT307": {
+        "meta": {
+            "title": "practice commit - please ignore!",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT308": {
+        "meta": {
+            "title": "uses-long-cache is too strict",
+            "locked": false,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT309": {
+        "meta": {
+            "title": "Roll Fuchsia Mac SDK from 7LGbVIHUD... to mpToCR2bB...",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT310": {
+        "meta": {
+            "title": "Support Pluginfile in \"import_from_git\"",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT311": {
+        "meta": {
+            "title": "Keymap configuration cannot be recognized",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT312": {
+        "meta": {
+            "title": "Atom still spies on the user even prior to consent request",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT313": {
+        "meta": {
+            "title": "[1.15] IForgeBlockState.getAiPathNodeType is never called",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT314": {
+        "meta": {
+            "title": "CUDA 7.5 fails with pip install and docker (Ubuntu 14.04)",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT315": {
+        "meta": {
+            "title": "Vagrant box downloads extremely slow",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT316": {
+        "meta": {
+            "title": "Why Angular can be overcomplicated?",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT317": {
+        "meta": {
+            "title": "Do not warn when DOM attribute values are undefined",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT318": {
+        "meta": {
+            "title": "Editor Utility Tools Update",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT319": {
+        "meta": {
+            "title": "Consider parallelizing the crossgen phase of the installer build",
+            "locked": false,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT320": {
+        "meta": {
+            "title": "vim\uff0cThe word under the cursor is not visible",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT321": {
+        "meta": {
+            "title": "So many issues and pull requests with only one contributor?",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT322": {
+        "meta": {
+            "title": "[v10.x] deps: V8: backport cd21f71f9cb5",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT323": {
+        "meta": {
+            "title": "Solarized schemes shipped in Terminal Preview are incorrect",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT324": {
+        "meta": {
+            "title": "fix a small typo",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT325": {
+        "meta": {
+            "title": "Add \"sync_mods\" argument to state.apply/state.sls",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT326": {
+        "meta": {
+            "title": "Display clipboard contents in the multiple line warning dialog box when pasting into Terminal",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT327": {
+        "meta": {
+            "title": "Firebase Realtime Database don't get update from wifi",
+            "locked": true,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT328": {
+        "meta": {
+            "title": "[1.15.1] Add event for when a chat packet is about to be sent from the server to a client",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT329": {
+        "meta": {
+            "title": "Added chunk instance to ChunkWatchEvent",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT330": {
+        "meta": {
+            "title": "Bug: state could be reset into the initialValue when using StrictMode",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT331": {
+        "meta": {
+            "title": "Crash on Android 6.0 Xiaomi devices after release on PlayStore",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT332": {
+        "meta": {
+            "title": "Adjust colors for \"control\" and \"events\"",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT333": {
+        "meta": {
+            "title": "Issue #33677: Replace use of whitelist with allowlist and blacklist with denylist ",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT334": {
+        "meta": {
+            "title": "Focus on Terminal View on mouse hover",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT335": {
+        "meta": {
+            "title": "Please create Offensive build of VSCode",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT336": {
+        "meta": {
+            "title": "Deprecate DL4J Word2Vec for fastText?",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT337": {
+        "meta": {
+            "title": "'Efficiently encode images' showing wrong sizes / potential savings",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT338": {
+        "meta": {
+            "title": "Terminal windows are closed whenever updated from the store",
+            "locked": true,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT339": {
+        "meta": {
+            "title": "fix: removed trailing spaces, fixed a typo",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT340": {
+        "meta": {
+            "title": "Source Generator fails unless the generator source code is modified.",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT341": {
+        "meta": {
+            "title": "Rename default branch from \"master\" to \"main\"",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT342": {
+        "meta": {
+            "title": "Adds experimental event component responder surfaces",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT343": {
+        "meta": {
+            "title": "/etc/cups/subscriptions.conf should live in /var",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT344": {
+        "meta": {
+            "title": "lerna bootstrap links whole folder, even if files and main are specified",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT345": {
+        "meta": {
+            "title": "no-git-push not working after 3.18.0",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT346": {
+        "meta": {
+            "title": "v3.18.0: `--hoist` no longer accepts multiple string values (yargs v14 change)",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT347": {
+        "meta": {
+            "title": "Old git tag is displayed when there's newer one",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT348": {
+        "meta": {
+            "title": "Nice, the only notable contribution you've ever made anywhere on Github is making sure everyone at Google knows you're a racist.",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT349": {
+        "meta": {
+            "title": "UTF-8 no BOM",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT350": {
+        "meta": {
+            "title": "restart salt-syndic when salt-master restart",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT351": {
+        "meta": {
+            "title": "mount.mounted does not handle blanks properly",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT352": {
+        "meta": {
+            "title": "Options ... Naming Style dialog unusable with Dark theme",
+            "locked": false,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT353": {
+        "meta": {
+            "title": "VS2017express C#, tabs replaced with spaces",
+            "locked": true,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT354": {
+        "meta": {
+            "title": "Hard to see cursor when using in-place rename refactoring",
+            "locked": false,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT355": {
+        "meta": {
+            "title": "Incorrect formatting of C# comments",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT356": {
+        "meta": {
+            "title": "\u5173\u4e8e\u5fae\u8f6f\u5e94\u7528\u5546\u5e97\u8bed\u8a00\u7b80\u6d01\u7684\u4e00\u4e2a\u975e\u5e38\u91cd\u8981\u7684\u5efa\u8bae\uff0c\u8bf7\u5c06\u3010\u4e2d\u6587\uff08\u53f0\u6e7e\uff09\u3011\u6539\u4e3a\u3010\u4e2d\u6587\uff08\u7e41\u4f53\uff09\u3011\uff0c\u8c22\u8c22\uff01",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT357": {
+        "meta": {
+            "title": "pkg.install on Arch upgrades full OS as a default option.",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT358": {
+        "meta": {
+            "title": "Clean up a bunch of render events",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT359": {
+        "meta": {
+            "title": "Add path short-hand for \"owner\" Node",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT360": {
+        "meta": {
+            "title": "Forum Login Issue",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT361": {
+        "meta": {
+            "title": "Too tricky explanation of Win32 support",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT362": {
+        "meta": {
+            "title": "Add WSL distro default desktop wallpapers as default background",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT363": {
+        "meta": {
+            "title": "100% Reproducible crash on Mac OS Catalina that happens on projects with more than 1024 files in them.",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT364": {
+        "meta": {
+            "title": "feature: dependency lock workflows",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT365": {
+        "meta": {
+            "title": "Fail to compile under VS2017",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT366": {
+        "meta": {
+            "title": "Infantry cancel their order once they dodge a vehicle",
+            "locked": false,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT367": {
+        "meta": {
+            "title": "Replace the refinery with the \"ERCC\" refinery in the standard game",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT368": {
+        "meta": {
+            "title": "Add transform SVG node parse",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT369": {
+        "meta": {
+            "title": "Fuck Flutter",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT370": {
+        "meta": {
+            "title": "Indicate which pane is focused with the Accent color on the pan\u2026",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT371": {
+        "meta": {
+            "title": "Godot editor GUI issue",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT372": {
+        "meta": {
+            "title": "Class requires Angular annotation even when abstract.",
+            "locked": false,
+            "state": "open"
+        },
+        "vectors": []
+    },
+    "ROOT373": {
+        "meta": {
+            "title": "Fix crashes on Linux/PPC64 ELFv1",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT374": {
+        "meta": {
+            "title": "Test case \"[GDNative String] humanize_size\" fails on win32 build",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT375": {
+        "meta": {
+            "title": "Microsoft Safety Scanner shows different results than Test-ProxyLogon.ps1 ",
+            "locked": true,
+            "state": "closed"
+        },
+        "vectors": []
+    },
+    "ROOT376": {
+        "meta": {
+            "title": "make flags of TokenRequest required",
+            "locked": false,
+            "state": "closed"
+        },
+        "vectors": []
+    }
+}

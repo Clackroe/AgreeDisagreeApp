@@ -1,0 +1,45 @@
+
+
+ /* CSS styling for the post */
+ #post {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    /*make sure its in the center*/
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+  }
+
+  .post .username {
+    font-weight: bold;
+  }
+
+  .post .timestamp {
+    font-size: 0.8em;
+    color: #888;
+  }
+
+  .post .message {
+    margin-top: 5px;
+    margin-right: 20px;
+  }
+
+  .btn {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+  #btn, input, h1 {
+    margin : auto;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding-bottom: 5px;
+
+    margin-bottom: 20px;
+
+  }
