@@ -6,6 +6,8 @@ const port = 3330; // Replace with your desired port number
 
 let doneConvos = [];
 
+//TODO: Need api endpoint to download all the found data
+
 
 app.get('/utterances', (req, res) => {
     let messages = []
