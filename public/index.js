@@ -45,6 +45,7 @@ function createConversation() {
 
 function getMessages(conv) {
 
+
     checkedConvos.clear();
     
 
@@ -56,11 +57,12 @@ function getMessages(conv) {
             dataType: 'json',
             headers: {"conversation_id": conv}
         }).done((data) => {
-            currentConvo = conv;
+            // console.log("Data: " + JSON.parse(JSON.stringify(data))[0].id);
+            currentConvo = JSON.parse(JSON.stringify(data))[0].id;
 
             resolve(data);
         }).fail((error) => {
-            reject(error);s
+            reject(error);
         });
     });
 }
@@ -76,7 +78,7 @@ function createMessage(content, i) {
 
     
 
-    return "<body><div id='post' class='"+ content.id +"'><span class='username'>" + content.speaker + "</span><span class=posreactions> 👍"+ content.meta['posReactions'] +"</span><span class=negreactions> 👎"+ content.meta['negReactions'] +"</span>"+ "<span class='prediction' style='float: right;'> CRAFT Prediction: "+ willDerail + " </span> <div> <div style='display: inline-block; float: right; margin-left: 15px;'><label for='myCheckbox"+ i +"'>◽</label><input type='checkbox' class='myCheckbox"+ content.id +"' onchange='changeColor(this)'></div> </div> " +"<div class='message'>" + content.text + "</div></div></body>";
+    return "<body><div id='post' class='"+ content.id +"'><span class='username'>" + content.speaker + "</span><span class=posreactions> 👍"+ content.meta['posReactions'] +"</span><span class=negreactions> 👎"+ content.meta['negReactions'] +"</span>"+ "<span id='" + willDerail.replace(" ", '').replace("'", '') + "' class='prediction' style='float: right;'> CRAFT Prediction: "+ willDerail + " </span> <div> <div style='display: inline-block; float: right; margin-left: 15px;'><label for='myCheckbox"+ content.id +"'>◽</label><input type='checkbox' id='myCheckbox"+ content.id +"' class='myCheckbox"+ content.id +"' onchange='changeColor(this)'></div> </div> " +"<div class='message'>" + content.text + "</div></div></body>";
 }
 
 function changeColor(checkbox) {
@@ -95,7 +97,7 @@ function changeColor(checkbox) {
 
 function doneWithConvo(){
 
-
+    // window.scrollTo(0, 0);
 
     var name = $('.name').val();
 
@@ -127,20 +129,22 @@ function doneWithConvo(){
         $.ajax({
             url: '/checkedConvo',
             type: 'POST',
-            dataType: 'json',
-            headers: {"conversation_id": this.currentConvo, "name": name},
+            // dataType: 'json',
+            headers: {"conversation_id": currentConvo, "name": name},
             data: jsonString
             
-        })
+        }).then((data) => {
 
-
+            console.log("post convo success DATA: " + data);
 
             var num = parseInt(this.currentConvo.replace("ROOT", "")) + 1;
 
-            console.log(num);
+            console.log("GOTO: " + num);
 
-            this.goTo(num);
-       
+            goTo(num);
+        }).catch((error) => {
+            console.log("post convo error: " + error);
+        });      
 
 
 
