@@ -178,10 +178,10 @@ app.get('/download', (req, res) => {
 
                         // console.log(conversations[convID])
 
-                        if (value.checked == false && conversations[convID]['heated'] == false) {
+                        if (value.checked == false && conversations[convID].heated == false) {
                             falseNegatives++;
                         }
-                        else if (value.checked == false && conversations[convID]['heated'] == true) {
+                        else if (value.checked == false && conversations[convID].heated == true) {
                             falsePositives++;
                         }
 
