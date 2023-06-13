@@ -9,6 +9,15 @@ app.use(express.urlencoded({ extended: true }));
 
 let doneConvos = [];
 
+let conversations;
+
+
+    fs.readFile('public/conversations/CORP1/conversations.json', 'utf8', (err, data) => {
+
+        conversations = JSON.parse(data);
+
+    });
+
 //TODO: Need api endpoint to download all the found data
 
 
@@ -120,6 +129,15 @@ app.get('/download', (req, res) => {
     const directoryPath = 'public/Data/';
     const targetDirectory = 'public/Downloads/';
 
+    let falsePositives = 0;
+    let falseNegatives = 0;
+
+    let totalUtterances = 0;
+
+    
+
+    
+
     fs.readdir(directoryPath, function (err, files) {
         if (err) {
             return console.log('Unable to scan directory: ' + err);
@@ -130,11 +148,13 @@ app.get('/download', (req, res) => {
             return;
         }
 
-        let csv = "Conversation ID, Utterance ID, Speaker, Agree With Craft\n";
+        let csv = "Conversation ID, Utterance ID, Speaker, CRAFT Prediction (Heated?), Agree With Craft\n";
         const readFilePromises = [];
 
         files.forEach(function (file) {
             let convID = '';
+
+            
 
             const filePath = directoryPath + file;
 
@@ -145,6 +165,8 @@ app.get('/download', (req, res) => {
                         return;
                     }
 
+                   
+
                     let json = JSON.parse(data);
 
                     for (const [key, value] of Object.entries(json)) {
@@ -154,7 +176,20 @@ app.get('/download', (req, res) => {
                             convID = convID.substring(convID.indexOf("ROOT"), convID.length);
                         }
 
-                        let line = convID + ", " + key + ", " + value.speaker + ", " + value.checked + "\n";
+                        // console.log(conversations[convID])
+
+                        if (value.checked == false && conversations[convID]['heated'] == false) {
+                            falseNegatives++;
+                        }
+                        else if (value.checked == false && conversations[convID]['heated'] == true) {
+                            falsePositives++;
+                        }
+
+                        totalUtterances++;
+
+
+                        
+                        let line = convID + ", " + key + ", " + value.speaker + ", " + conversations[convID].heated +", " + value.checked + "\n";
                         csv += line;
                     }
 
@@ -165,6 +200,9 @@ app.get('/download', (req, res) => {
             readFilePromises.push(readFilePromise);
         });
 
+        
+
+
         Promise.all(readFilePromises)
             .then(() => {
                 try {
@@ -172,6 +210,11 @@ app.get('/download', (req, res) => {
                 } catch (err) {
                     throw new Error('Unable to create directory: ' + err);
                 }
+                csv = "\n\nFalse Positives: " + falsePositives + "\nFalse Negatives: " + falseNegatives + "\nTotal Utterances: " + totalUtterances + "\n\n" + csv;
+
+                let successRatio = (totalUtterances - (falsePositives + falseNegatives)) / totalUtterances * 100;
+
+                csv = "Success Ratio: " + successRatio + "%\n\n" + csv;
 
                 fs.writeFile(targetDirectory + 'data.csv', csv, function (err) {
                     if (err) {

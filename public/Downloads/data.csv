@@ -1,58 +1,16 @@
-Conversation ID, Utterance ID, Speaker, Agree With Craft
-ROOT3, ROOT3, acoutts, false
-ROOT3, COM3_0, acoutts, false
-ROOT3, COM3_1, acoutts, false
-ROOT3, COM3_2, acoutts, false
-ROOT3, COM3_3, bierbaumtim, false
-ROOT3, COM3_4, Ufuk94, false
-ROOT3, COM3_5, bluemix, false
-ROOT3, COM3_6, liyuqian, false
-ROOT3, COM3_7, trighomautumnatg, false
-ROOT3, COM3_8, bobandrew, false
-ROOT3, COM3_9, wellbranding, false
-ROOT3, COM3_10, Ufuk94, false
-ROOT3, COM3_11, acoutts, false
-ROOT3, COM3_12, Hixie, false
-ROOT3, COM3_13, liyuqian, false
-ROOT3, COM3_14, Hixie, false
-ROOT3, COM3_15, kf6gpe, false
-ROOT3, COM3_16, acoutts, false
-ROOT3, COM3_17, liyuqian, false
-ROOT3, COM3_18, petro-i, false
-ROOT3, COM3_19, atrope, false
-ROOT3, COM3_20, acoutts, false
-ROOT3, COM3_21, atrope, false
-ROOT3, COM3_22, kf6gpe, false
-ROOT3, COM3_23, m-j-g, false
-ROOT3, COM3_24, scaraux, false
-ROOT3, COM3_25, m-j-g, false
-ROOT3, COM3_26, bluemix, false
-ROOT3, COM3_27, erf, false
-ROOT3, COM3_28, bluemix, false
-ROOT3, COM3_29, erf, false
-ROOT1, ROOT1, abcdefg30, true
-ROOT1, COM1_0, netnazgul, false
-ROOT1, COM1_1, deleted-user-1, true
-ROOT1, COM1_2, KOYK, true
-ROOT1, COM1_3, shpookys, false
-ROOT1, COM1_4, deleted-user-1, false
-ROOT1, COM1_5, netnazgul, false
-ROOT1, COM1_6, abcdefg30, false
-ROOT1, COM1_7, netnazgul, false
-ROOT1, COM1_8, abcdefg30, false
-ROOT1, COM1_9, netnazgul, true
-ROOT1, COM1_10, abcdefg30, false
-ROOT1, COM1_11, netnazgul, true
-ROOT1, COM1_12, Smittytron, false
-ROOT1, COM1_13, PunkPun, false
-ROOT1, COM1_14, abcdefg30, false
-ROOT1, COM1_15, netnazgul, false
-ROOT1, COM1_16, abcdefg30, true
-ROOT1, COM1_17, abcdefg30, false
-ROOT2, ROOT2, abcdefg30, false
-ROOT2, COM2_0, abcdefg30, true
-ROOT2, COM2_1, deleted-user-1, true
-ROOT2, COM2_2, abcdefg30, false
-ROOT2, COM2_3, KOYK, false
-ROOT2, COM2_4, abcdefg30, true
-ROOT2, COM2_5, reaperrr, false
+Success Ratio: 100%
+
+
+
+False Positives: 0
+False Negatives: 0
+Total Utterances: 7
+
+Conversation ID, Utterance ID, Speaker, CRAFT Prediction (Heated?), Agree With Craft
+ROOT163, ROOT163, Julien-Marpault, false, true
+ROOT163, COM163_0, pranavkm, false, true
+ROOT163, COM163_1, Julien-Marpault, false, true
+ROOT163, COM163_2, pranavkm, false, true
+ROOT163, COM163_3, Julien-Marpault, false, true
+ROOT163, COM163_4, msftbot[bot], false, true
+ROOT163, COM163_5, msftbot[bot], false, true
